@@ -1,4 +1,3 @@
-# financial-literacy-quiz
 <!DOCTYPE html>
 <html lang="en">
 <head>
